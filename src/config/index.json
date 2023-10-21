@@ -1,0 +1,23 @@
+{
+  "company": {
+    "name": "coinverse",
+    "logo": "/assets/images/logo.png"
+  },
+  "mainHero": {
+    "title": "Master",
+    "subtitle": "Your Money",
+    "description": "Coinverse: Simplify. Visualize. Conquer. Take control effortlessly. Join now and unlock your financial potential!",
+    "img": "/assets/images/hand-with-phone.png",
+    "primaryAction": {
+      "text": "Get notified",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:f.vasturzo@live.it?subject=I like react landing page!"
+    },
+    "message": {
+      "text": "Sign up now for early access and unlock financial resources."
+    }
+  }
+}
